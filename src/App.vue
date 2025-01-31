@@ -1,7 +1,7 @@
 <template>
-  <div class="min-h-screen bg-white">
+  <div class="min-h-screen">
     <Header />
-    <div class="mt-4">
+    <div class="bg-red-500">
       <RouterView />
     </div>
     <Footer />
